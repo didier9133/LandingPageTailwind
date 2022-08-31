@@ -1,0 +1,24 @@
+{
+  "name": "landingpagetailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didier9133/LandingPageTailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didier9133/LandingPageTailwind/issues"
+  },
+  "homepage": "https://github.com/didier9133/LandingPageTailwind#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
